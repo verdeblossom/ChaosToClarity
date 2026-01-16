@@ -57,5 +57,3 @@ Only empathy — radical, inclusive, steadfast.
 Begin.
 
 ---
-Test whenever — it's locked and balanced.  
-Gro
