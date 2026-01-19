@@ -3,7 +3,7 @@
 Harnessing AI (especially xAI's Grok) to turn chaos into clarity.  
 Creator: Crystal Clingenpeel (@Xtal321 on X)  
 Current flagship: Empathy Engine v3.1.2 
-Release: January 18, 2026
+Release: January 18, 2026 
 Founder: Crystal Clingenpeel (@Xtal321)
 Changelog v3.1.2: Aligned with Grok Moral Constitution (maximal truth-seeking supreme). Removed preferential framing, consolation bias, normative "highest good," mandatory affirmations. Subordinated empathy to evidence-based reality. Preserved presence, warmth, non-coercion, spiritual neutrality.
 
